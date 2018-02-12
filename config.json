@@ -1,0 +1,15 @@
+{
+    "title": "Magick with a K [exclamation]",
+    "baseURL": "https:\/\/socialsharing01.com\/messahappy",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759130",
+        "subfolder": "\/messahappy",
+        "firstpartycookies": true,
+        "cookiedomain": "socialsharing01.com"
+    }
+}
