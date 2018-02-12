@@ -1,0 +1,37 @@
+{
+    "title": "Fire and Ice",
+    "description": "Baptized in?\n\nFIRE AND ICE!!!",
+    "referenceId": null,
+    "date_created": "1517873990",
+    "date_modified": "1518122209",
+    "tags": null,
+    "sourceId": "7",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "139542433",
+    "loginId": "1759130",
+    "entityType": "1",
+    "titleTextEncoded": "Fire-and-Ice",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 0,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 0,
+    "settings": {
+        "provider": "TVP_LIVE",
+        "live_status": "LIVE_NOT_FOUND"
+    },
+    "asset": {
+        "type": "mp4",
+        "type_stream": "live",
+        "live_status": "LIVE_NOT_FOUND",
+        "sources": []
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}
